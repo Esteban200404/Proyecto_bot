@@ -1,0 +1,949 @@
+[handleMsg]:  {
+  key: {
+    remoteJid: '573219866499@s.whatsapp.net',
+    fromMe: false,
+    id: 'B1F983BB2C524FDEA5D4212281068295',
+    participant: undefined
+  },
+  messageTimestamp: 1677190911,
+  pushName: 'Daniel Guerrero🐲',
+  message: Message {
+    conversation: 'Por acá?',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Por acá?',
+  from: '573219866499'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573219866499@s.whatsapp.net',
+    fromMe: false,
+    id: 'F88CD694A988B2F0BCC5AF44FCC77CE8',
+    participant: undefined
+  },
+  messageTimestamp: 1677190923,
+  pushName: 'Daniel Guerrero🐲',
+  message: Message {
+    conversation: 'En codigo?',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'En codigo?',
+  from: '573219866499'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573219866499@s.whatsapp.net',
+    fromMe: false,
+    id: '7E607A8261486D9DBA39849235C9CD5A',
+    participant: undefined
+  },
+  messageTimestamp: 1677190925,
+  pushName: 'Daniel Guerrero🐲',
+  message: Message {
+    conversation: 'O normal',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'O normal',
+  from: '573219866499'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573219866499@s.whatsapp.net',
+    fromMe: false,
+    id: '5354D97D1FD2E7FB54731B8650CB90D0',
+    participant: undefined
+  },
+  messageTimestamp: 1677190933,
+  pushName: 'Daniel Guerrero🐲',
+  message: Message {
+    conversation: 'Hola',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Hola',
+  from: '573219866499'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573219866499@s.whatsapp.net',
+    fromMe: false,
+    id: 'EDBC82061DBDF025E13243A048776184',
+    participant: undefined
+  },
+  messageTimestamp: 1677190937,
+  pushName: 'Daniel Guerrero🐲',
+  message: Message {
+    conversation: 'Jsjsjsjsjajasjajjajaa',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Jsjsjsjsjajasjajjajaa',
+  from: '573219866499'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573219866499@s.whatsapp.net',
+    fromMe: false,
+    id: '0E37F15FCB2F2C17BA947F3FBE4BADA4',
+    participant: undefined
+  },
+  messageTimestamp: 1677190938,
+  pushName: 'Daniel Guerrero🐲',
+  message: Message {
+    conversation: 'Upa',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Upa',
+  from: '573219866499'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573219866499@s.whatsapp.net',
+    fromMe: false,
+    id: 'BE3D1F8841CAA75B46F40F24173AEDE9',
+    participant: undefined
+  },
+  messageTimestamp: 1677190940,
+  pushName: 'Daniel Guerrero🐲',
+  message: Message {
+    conversation: 'El hpta',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'El hpta',
+  from: '573219866499'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573219866499@s.whatsapp.net',
+    fromMe: false,
+    id: 'F7C614D47733FD145540384A9315456C',
+    participant: undefined
+  },
+  messageTimestamp: 1677190941,
+  pushName: 'Daniel Guerrero🐲',
+  message: Message {
+    conversation: 'Jajajajajaaja',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Jajajajajaaja',
+  from: '573219866499'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573144780429@s.whatsapp.net',
+    fromMe: false,
+    id: '32D06F6395A6C30DCE7180F536F1CA53',
+    participant: undefined
+  },
+  messageTimestamp: 1677190943,
+  pushName: 'Alejandra 🖤',
+  message: Message {
+    conversation: 'Se calló el Internet',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Se calló el Internet',
+  from: '573144780429'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573144780429@s.whatsapp.net',
+    fromMe: false,
+    id: '173B770EC39BC1C07028502DF7E3605B',
+    participant: undefined
+  },
+  messageTimestamp: 1677190944,
+  pushName: 'Alejandra 🖤',
+  message: Message {
+    conversation: ':)',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: ':)',
+  from: '573144780429'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573219866499@s.whatsapp.net',
+    fromMe: false,
+    id: '37BAFF520BECEE167D4F7CFF117AAE54',
+    participant: undefined
+  },
+  messageTimestamp: 1677190946,
+  pushName: 'Daniel Guerrero🐲',
+  message: Message {
+    conversation: 'Hola',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Hola',
+  from: '573219866499'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573219866499@s.whatsapp.net',
+    fromMe: false,
+    id: '103776A066E760F49F98E707DF647260',
+    participant: undefined
+  },
+  messageTimestamp: 1677190948,
+  pushName: 'Daniel Guerrero🐲',
+  message: Message {
+    conversation: 'Hola',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Hola',
+  from: '573219866499'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573144780429@s.whatsapp.net',
+    fromMe: false,
+    id: '77B03AC3D86472C54FD05A00EB592DFA',
+    participant: undefined
+  },
+  messageTimestamp: 1677190948,
+  pushName: 'Alejandra 🖤',
+  message: Message {
+    conversation: 'Hp',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Hp',
+  from: '573144780429'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573219866499@s.whatsapp.net',
+    fromMe: false,
+    id: '7B3D0517A0C9A6561C7408DCCEB8C93E',
+    participant: undefined
+  },
+  messageTimestamp: 1677190951,
+  pushName: 'Daniel Guerrero🐲',
+  message: Message {
+    conversation: 'Hola',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Hola',
+  from: '573219866499'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573219866499@s.whatsapp.net',
+    fromMe: false,
+    id: '2D9D4F9AAC93592B31772D5C7C491059',
+    participant: undefined
+  },
+  messageTimestamp: 1677190954,
+  pushName: 'Daniel Guerrero🐲',
+  message: Message {
+    conversation: 'Jajajajajaaja',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Jajajajajaaja',
+  from: '573219866499'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573219866499@s.whatsapp.net',
+    fromMe: false,
+    id: '11E9E3B61BF130A5CEE613BFD5EA33EE',
+    participant: undefined
+  },
+  messageTimestamp: 1677190957,
+  pushName: 'Daniel Guerrero🐲',
+  message: Message {
+    conversation: '1',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '1',
+  from: '573219866499'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573219866499@s.whatsapp.net',
+    fromMe: false,
+    id: 'D4B87636595CA5AF9364561A8B8A8746',
+    participant: undefined
+  },
+  messageTimestamp: 1677190963,
+  pushName: 'Daniel Guerrero🐲',
+  message: Message {
+    conversation: '2',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '2',
+  from: '573219866499'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573219866499@s.whatsapp.net',
+    fromMe: false,
+    id: 'CA907E38A441EA0CD62349F9CAA3E315',
+    participant: undefined
+  },
+  messageTimestamp: 1677190967,
+  pushName: 'Daniel Guerrero🐲',
+  message: Message {
+    conversation: 'Esa mierda no sirve',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Esa mierda no sirve',
+  from: '573219866499'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573219866499@s.whatsapp.net',
+    fromMe: false,
+    id: '323E796744A887C6CFB61B0C03972A4F',
+    participant: undefined
+  },
+  messageTimestamp: 1677190973,
+  pushName: 'Daniel Guerrero🐲',
+  message: Message {
+    conversation: '0',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '0',
+  from: '573219866499'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573219866499@s.whatsapp.net',
+    fromMe: false,
+    id: '9F1F061EB1586BBE7022A8FC147DB1AA',
+    participant: undefined
+  },
+  messageTimestamp: 1677190975,
+  pushName: 'Daniel Guerrero🐲',
+  message: Message {
+    conversation: 'Mentiras',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Mentiras',
+  from: '573219866499'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573144780429@s.whatsapp.net',
+    fromMe: false,
+    id: '15A0DB70A22CC7A62C9D286BFF6D7A00',
+    participant: undefined
+  },
+  messageTimestamp: 1677191008,
+  pushName: 'Alejandra 🖤',
+  message: Message {
+    conversation: 'No hp',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'No hp',
+  from: '573144780429'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573144780429@s.whatsapp.net',
+    fromMe: false,
+    id: 'DE7FB5701D7E2C6BB8EA2FE2E6AE50B6',
+    participant: undefined
+  },
+  messageTimestamp: 1677191014,
+  pushName: 'Alejandra 🖤',
+  message: Message {
+    conversation: 'Y ahora pa descargar eso mk',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Y ahora pa descargar eso mk',
+  from: '573144780429'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573144780429@s.whatsapp.net',
+    fromMe: false,
+    id: '7AE571C3670B1B104B2EC0446B3C7A78',
+    participant: undefined
+  },
+  messageTimestamp: 1677191015,
+  pushName: 'Alejandra 🖤',
+  message: Message {
+    conversation: 'Qhg',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Qhg',
+  from: '573144780429'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573144780429@s.whatsapp.net',
+    fromMe: false,
+    id: 'CD260BC862F5627E9C2ACB6B79075A87',
+    participant: undefined
+  },
+  messageTimestamp: 1677191016,
+  pushName: 'Alejandra 🖤',
+  message: Message {
+    conversation: 'Jajajjajajajja',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Jajajjajajajja',
+  from: '573144780429'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573144780429@s.whatsapp.net',
+    fromMe: false,
+    id: 'B706252276659F9D97E16A81FA8EBAAF',
+    participant: undefined
+  },
+  messageTimestamp: 1677191018,
+  pushName: 'Alejandra 🖤',
+  message: Message {
+    conversation: 'Noooooooo',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Noooooooo',
+  from: '573144780429'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573144780429@s.whatsapp.net',
+    fromMe: false,
+    id: '9B5824A562F30B6170DB8951CAF4EABB',
+    participant: undefined
+  },
+  messageTimestamp: 1677191020,
+  pushName: 'Alejandra 🖤',
+  message: Message {
+    conversation: 'Jajajajjajajajjajajqjjqjq',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Jajajajjajajajjajajqjjqjq',
+  from: '573144780429'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573144780429@s.whatsapp.net',
+    fromMe: false,
+    id: '17E69B2AD5074E0AFADFFCCA67E2C604',
+    participant: undefined
+  },
+  messageTimestamp: 1677191051,
+  pushName: 'Alejandra 🖤',
+  message: Message {
+    conversation: 'Yo también estaba hablando como mi',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Yo también estaba hablando como mi',
+  from: '573144780429'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573144780429@s.whatsapp.net',
+    fromMe: false,
+    id: '7629173215C91A0200AEF5998AF4B3BD',
+    participant: undefined
+  },
+  messageTimestamp: 1677191053,
+  pushName: 'Alejandra 🖤',
+  message: Message {
+    conversation: 'Mk*',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Mk*',
+  from: '573144780429'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573144780429@s.whatsapp.net',
+    fromMe: false,
+    id: 'AEE87896C35FECAF8CF0FD310D807281',
+    participant: undefined
+  },
+  messageTimestamp: 1677191063,
+  pushName: 'Alejandra 🖤',
+  message: Message {
+    conversation: 'Incluso te dije que por que hps me ignoraba',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Incluso te dije que por que hps me ignoraba',
+  from: '573144780429'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573144780429@s.whatsapp.net',
+    fromMe: false,
+    id: '1BAF255CF8B1B0CC0DC9ABF6986217E6',
+    participant: undefined
+  },
+  messageTimestamp: 1677191071,
+  pushName: 'Alejandra 🖤',
+  message: Message {
+    conversation: 'Ya estoy reiniciando esa monda',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Ya estoy reiniciando esa monda',
+  from: '573144780429'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573144780429@s.whatsapp.net',
+    fromMe: false,
+    id: 'C2DCB969F68C2896F124C73FA5A7A278',
+    participant: undefined
+  },
+  messageTimestamp: 1677191073,
+  pushName: 'Alejandra 🖤',
+  message: Message {
+    conversation: '😾🤦‍♀️',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '😾🤦‍♀️',
+  from: '573144780429'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573219866499@s.whatsapp.net',
+    fromMe: false,
+    id: '42FBABD7D7643AE90041FA7C807ED25E',
+    participant: undefined
+  },
+  messageTimestamp: 1677191101,
+  pushName: 'Daniel Guerrero🐲',
+  message: Message {
+    conversation: 'Hola',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Hola',
+  from: '573219866499'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573219866499@s.whatsapp.net',
+    fromMe: false,
+    id: '0BA2B26EE36296B7BB7DBA80A25A8502',
+    participant: undefined
+  },
+  messageTimestamp: 1677191108,
+  pushName: 'Daniel Guerrero🐲',
+  message: Message {
+    conversation: '0',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '0',
+  from: '573219866499'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573219866499@s.whatsapp.net',
+    fromMe: false,
+    id: '7308F8414B3CF1BC320DAB5002DD9DE9',
+    participant: undefined
+  },
+  messageTimestamp: 1677191117,
+  pushName: 'Daniel Guerrero🐲',
+  message: Message {
+    conversation: 'Hola',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Hola',
+  from: '573219866499'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573219866499@s.whatsapp.net',
+    fromMe: false,
+    id: '75E5B9F22BE3A044F2C55F9D2D9827AD',
+    participant: undefined
+  },
+  messageTimestamp: 1677191119,
+  pushName: 'Daniel Guerrero🐲',
+  message: Message {
+    conversation: '1',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '1',
+  from: '573219866499'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573219866499@s.whatsapp.net',
+    fromMe: false,
+    id: '131D0CE7FC3FCF62CEF98F4C669FF685',
+    participant: undefined
+  },
+  messageTimestamp: 1677191127,
+  pushName: 'Daniel Guerrero🐲',
+  message: Message {
+    conversation: '2',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '2',
+  from: '573219866499'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573219866499@s.whatsapp.net',
+    fromMe: false,
+    id: '7EBDD8C90F46522454A3B5D0FC888DD8',
+    participant: undefined
+  },
+  messageTimestamp: 1677191132,
+  pushName: 'Daniel Guerrero🐲',
+  message: Message {
+    conversation: '0',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '0',
+  from: '573219866499'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573219866499@s.whatsapp.net',
+    fromMe: false,
+    id: '9F729957042F87E6D76635CB778A55BB',
+    participant: undefined
+  },
+  messageTimestamp: 1677191138,
+  pushName: 'Daniel Guerrero🐲',
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: 'Tan mk',
+      previewType: 0,
+      contextInfo: [ContextInfo],
+      inviteLinkGroupTypeV2: 0
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Tan mk',
+  from: '573219866499'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573219866499@s.whatsapp.net',
+    fromMe: false,
+    id: '484455F4EB0679595D1C9961B7C6B208',
+    participant: undefined
+  },
+  messageTimestamp: 1677191140,
+  pushName: 'Daniel Guerrero🐲',
+  message: Message {
+    conversation: 'Jsjsjajajajajaa',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Jsjsjajajajajaa',
+  from: '573219866499'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573219866499@s.whatsapp.net',
+    fromMe: false,
+    id: '750C43562FFBE9BB54B29367DB7E684C',
+    participant: undefined
+  },
+  messageTimestamp: 1677191144,
+  pushName: 'Daniel Guerrero🐲',
+  message: Message {
+    conversation: 'Hola',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Hola',
+  from: '573219866499'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573219866499@s.whatsapp.net',
+    fromMe: false,
+    id: '97DE2C1A152BB077B1BBF936CA508D1F',
+    participant: undefined
+  },
+  messageTimestamp: 1677191148,
+  pushName: 'Daniel Guerrero🐲',
+  message: Message {
+    conversation: '3',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '3',
+  from: '573219866499'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573219866499@s.whatsapp.net',
+    fromMe: false,
+    id: '201DD8FCB2CAFB4B6A039DF1A8CB4907',
+    participant: undefined
+  },
+  messageTimestamp: 1677191154,
+  pushName: 'Daniel Guerrero🐲',
+  message: Message {
+    conversation: '0',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '0',
+  from: '573219866499'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573219866499@s.whatsapp.net',
+    fromMe: false,
+    id: '5FB560E01A250A898035DF82376CCEBE',
+    participant: undefined
+  },
+  messageTimestamp: 1677191162,
+  pushName: 'Daniel Guerrero🐲',
+  message: Message {
+    conversation: '0',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '0',
+  from: '573219866499'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573219866499@s.whatsapp.net',
+    fromMe: false,
+    id: '5C70AB9347B2D18B8EC1DE8B1B4D913B',
+    participant: undefined
+  },
+  messageTimestamp: 1677191171,
+  pushName: 'Daniel Guerrero🐲',
+  message: Message {
+    conversation: 'Jajajajaja este mk',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Jajajajaja este mk',
+  from: '573219866499'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573184676913@s.whatsapp.net',
+    fromMe: false,
+    id: '3A48A05F5ECEBD1DA9E1',
+    participant: undefined
+  },
+  messageTimestamp: 1677191206,
+  pushName: 'Juan Da Gonzalez',
+  message: Message {
+    conversation: 'Sisa',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Sisa',
+  from: '573184676913'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573184676913@s.whatsapp.net',
+    fromMe: false,
+    id: '3ABFDEC58164B8DA4AD3',
+    participant: undefined
+  },
+  messageTimestamp: 1677191217,
+  pushName: 'Juan Da Gonzalez',
+  message: Message {
+    conversation: 'Pero pues hasta ahorita salí de motilar ñero',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Pero pues hasta ahorita salí de motilar ñero',
+  from: '573184676913'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573184676913@s.whatsapp.net',
+    fromMe: false,
+    id: '3AF64CE1A57F452BBEFC',
+    participant: undefined
+  },
+  messageTimestamp: 1677191221,
+  pushName: 'Juan Da Gonzalez',
+  message: Message {
+    conversation: 'Apenas voy pa’l gimnasio',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Apenas voy pa’l gimnasio',
+  from: '573184676913'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573184676913@s.whatsapp.net',
+    fromMe: false,
+    id: '3A85EEBB493DB07B3B8B',
+    participant: undefined
+  },
+  messageTimestamp: 1677191245,
+  pushName: 'Juan Da Gonzalez',
+  message: Message {
+    audioMessage: AudioMessage {
+      url: 'https://mmg.whatsapp.net/v/t62.7117-24/23727407_136803462357170_2410891049968464164_n.enc?ccb=11-4&oh=01_AdQnhA5lbMn6sSU1pAeIeAJTV3e_-3KcZHprDoVIKkwdXg&oe=641F6EEC&mms3=true',
+      mimetype: 'audio/ogg; codecs=opus',
+      fileSha256: [Uint8Array],
+      fileLength: [Long],
+      seconds: 6,
+      ptt: true,
+      mediaKey: [Uint8Array],
+      fileEncSha256: [Uint8Array],
+      directPath: '/v/t62.7117-24/23727407_136803462357170_2410891049968464164_n.enc?ccb=11-4&oh=01_AdQnhA5lbMn6sSU1pAeIeAJTV3e_-3KcZHprDoVIKkwdXg&oe=641F6EEC',
+      mediaKeyTimestamp: [Long],
+      streamingSidecar: [Uint8Array],
+      waveform: [Uint8Array]
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '',
+  from: '573184676913'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573184676913@s.whatsapp.net',
+    fromMe: false,
+    id: '3A7EA1DAA862C0780094',
+    participant: undefined
+  },
+  messageTimestamp: 1677191287,
+  pushName: 'Juan Da Gonzalez',
+  message: Message {
+    conversation: 'Epa epa',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Epa epa',
+  from: '573184676913'
+}
