@@ -5,7 +5,9 @@ const BaileysProvider = require('@bot-whatsapp/provider/baileys')
 const MockAdapter = require('@bot-whatsapp/database/mock')
 
 const flowGracias = addKeyword(['0', 'gracias']).addAnswer(['*Gracias por comunicarte conmigo* 👋',
-'Recuerda que el Horario es de *7:00.A.M - 12:00.A.M* y de *1:30.P.M - 7:00.P.M*'])
+'Recuerda que el Horario es de *9:00.A.M - 7:00.P.M de Lunes - Sabado*'])
+
+const flowComunicacion=addKeyword('').addAnswer('Ya te comunicamos con un asesor')
 
 const flowTimon = addKeyword(['9', 'Timon', 'Platos'])
     .addAnswer('En estos momentos cuento con estos Timones y Platos: ')
@@ -26,7 +28,7 @@ const flowTimon = addKeyword(['9', 'Timon', 'Platos'])
         ,],
         null,
         null,
-        [flowGracias])
+        [flowGracias,flowComunicacion])
 
 const flowCartuchos = addKeyword(['8', 'Cartuchos', 'cambios'])
     .addAnswer('En estos momentos cuento con estos Piñones, Pachas, Cajas y Extensores: ')
@@ -59,7 +61,7 @@ const flowCartuchos = addKeyword(['8', 'Cartuchos', 'cambios'])
         ,],
         null,
         null,
-        [flowGracias])
+        [flowGracias,flowComunicacion])
 
 
 const flowPiñones = addKeyword(['7', 'piñones', 'Pacha', 'caja'])
@@ -83,7 +85,7 @@ const flowPiñones = addKeyword(['7', 'piñones', 'Pacha', 'caja'])
     ],
         null,
         null,
-        [flowGracias])
+        [flowGracias,flowComunicacion])
 
 const flowAccesorios = addKeyword(['Accesorios', 'accesorios', '6'])
     .addAnswer('En estos momentos cuento con estos Accesorios: ')
@@ -150,7 +152,7 @@ const flowAccesorios = addKeyword(['Accesorios', 'accesorios', '6'])
         ,],
         null,
         null,
-        [flowGracias])
+        [flowGracias,flowComunicacion])
 
 const FlowFrenos = addKeyword(['5', 'frenos', 'Manguera', 'manguera'])
     .addAnswer('En estos momentos cuento con estos Frenos y Mangueras: ')
@@ -161,11 +163,11 @@ const FlowFrenos = addKeyword(['5', 'frenos', 'Manguera', 'manguera'])
         '    *Precio:* 53.000',
         '*3.* Discos de freno 160',
         '    *Precio:* 20.000',
-        '*4.* Dapata bristol',
+        '*4.* Zapata bristol',
         '    *Precio:* 6.000',
-        '*5.* Dapata de cross ',
+        '*5.* Zapata de cross ',
         '    *Precio:* 6.000',
-        '*6.* Dapata de graduacion',
+        '*6.* Zapata de graduacion',
         '    *Precio:* 6.000',
         '*7.* Mangera 20 kenda',
         '    *Precio:* 16.000',
@@ -187,7 +189,7 @@ const FlowFrenos = addKeyword(['5', 'frenos', 'Manguera', 'manguera'])
         ,],
         null,
         null,
-        [flowGracias])
+        [flowGracias,flowComunicacion])
 
 const flowCadenas = addKeyword(['4', 'cadenas', 'tensores', 'descarriladores'])
     .addAnswer('En estos momentos cuento con estas Cadenas, Tensores y Descarriladores: ')
@@ -200,23 +202,19 @@ const flowCadenas = addKeyword(['4', 'cadenas', 'tensores', 'descarriladores'])
         '    *Precio:* 70.000',
         '*4.* cadenilla tec',
         '    *Precio:* 18.000',
-        '*5.* cadenilla tec',
-        '    *Precio:* 18.000',
-        '*6.* cedena tec',
-        '    *Precio:* 16.000',
-        '*7.* tensor economico',
+        '*5.* tensor economico',
         '    *Precio:* 25.000',
-        '*8.* cedena tec',
+        '*6.* cadena tec',
         '    *Precio:* 16.000',
-        '*9.* descarrilador tourney doble función',
+        '*7.* descarrilador tourney doble función',
         '    *Precio:* 50.000',
-        '*9.* descarrilador economico',
+        '*8.* descarrilador economico',
         '    *Precio:* 16.000',
         '*0.* Salir.',
     ],
         null,
         null,
-        [flowGracias])
+        [flowGracias,flowComunicacion])
 
 const flowGW = addKeyword(['GW', 'gw', 'Gw', '1'])
     .addAnswer('En estos momentos cuento con estos Repuestos GW:')
@@ -247,7 +245,7 @@ const flowGW = addKeyword(['GW', 'gw', 'Gw', '1'])
 
         null,
         null,
-        [flowGracias])
+        [flowGracias,flowComunicacion])
 
 const flowShimano = addKeyword(['Shimano', '2', 'shimano'])
     .addAnswer('En estos momentos cuento con estos repuestos Shimano:')
@@ -283,7 +281,7 @@ const flowShimano = addKeyword(['Shimano', '2', 'shimano'])
         '*0.* Salir',],
         null,
         null,
-        [flowGracias])
+        [flowGracias,flowComunicacion])
 
 const flowPedales = addKeyword(['Pedales', '3', 'pedales'])
     .addAnswer(['En estos momentos cuento con estos Pedales:',
@@ -298,7 +296,7 @@ const flowPedales = addKeyword(['Pedales', '3', 'pedales'])
         '*0.* Salir',],
         null,
         null,
-        [flowGracias])
+        [flowGracias,flowComunicacion])
 
 const flowRepuestos = addKeyword(['2', 'dos']).addAnswer('A continuacion decide que tipo de marca deseas manejar')
     .addAnswer([
@@ -344,19 +342,19 @@ const flowMantenimiento = addKeyword(['1', 'uno',])
         '🚲 El mantenimiento Plus: *$80.000*',
         '🚲 El mantenimiento Full: *$150.000*',
         '🚲 El mantenimiento Nucleo (Pacha): *$30.000*',
-        '🚲 El mantenimiento Suspencion de Aceite: *$35.000*',
+        '🚲 El mantenimiento Suspencion: Desde *$35.000*',
         '🚲 El mantenimiento Shifter: *$20.000*',
         '🚲 El mantenimiento Ergopower: *Desde $70.00*',
         '*0.* Salir',
     ],
         null,
         null,
-        [flowGracias]
+        [flowGracias,flowComunicacion]
     )
 
 const flowPrincipal = addKeyword(['Hola', "Buenas"])
-    .addAnswer(['🚲 *Bicicleteria de Jhon* 🚲',
-        'Que tipo de servicio deseas conocer: ',
+    .addAnswer(['🚲 *Bici´s Home CyL* 🚲',
+        'Bienvenido que tipo de servicio deseas conocer: ',
         '🚲 *1.* Mantenimiento',
         '🚲 *2.* Repuestos',
         '🚲 *3.* Servicios',
