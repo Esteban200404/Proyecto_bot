@@ -338,18 +338,17 @@ const flowServivios = addKeyword(['3', 'tres', 'Tres', 'servicios'])
         null,
         [flowGracias])
 
-const flowMantenimiento = addKeyword(['1', 'uno'])
+const flowMantenimiento = addKeyword(['1', 'uno',])
     .addAnswer([
-        '🚲 El mantenimiento General: *$60.000*',
-        '🚲 El mantenimiento Premium: *$80.000*',
-        '🚲 El mantenimiento Premium full: *$150.000*',
-        '🚲 El mantenimiento Body: *$30.000*',
-        '🚲 El mantenimiento Basculante: *$80.000*',
-        '🚲 El mantenimiento Suspencion Aceite: *$35.000*',
-        '🚲 El mantenimiento Suspencion de Aire: *Desde $85.000*',
+        '🚲 El mantenimiento Stanadard: *$60.000*',
+        '🚲 El mantenimiento Plus: *$80.000*',
+        '🚲 El mantenimiento Full: *$150.000*',
+        '🚲 El mantenimiento Nucleo (Pacha): *$30.000*',
+        '🚲 El mantenimiento Suspencion de Aceite: *$35.000*',
         '🚲 El mantenimiento Shifter: *$20.000*',
-        '🚲 El mantenimiento ergopower: *Varia*',
-        '*0.* Salir',],
+        '🚲 El mantenimiento Ergopower: *Desde $70.00*',
+        '*0.* Salir',
+    ],
         null,
         null,
         [flowGracias]
