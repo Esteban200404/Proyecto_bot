@@ -8,6 +8,7 @@ const flowGracias = addKeyword(['0', 'gracias']).addAnswer(['*Gracias por comuni
 'Recuerda que el Horario es de *9:00.A.M - 7:00.P.M de Lunes - Sabado*'])
 
 const flowComunicacion=addKeyword('').addAnswer('*Ya te comunicamos con un asesor*')
+.addAnswer('*O si deseas llameme*')
 
 const flowTimon = addKeyword(['9', 'Timon', 'Platos'])
     .addAnswer('En estos momentos cuento con estos Timones y Platos: ')
@@ -338,8 +339,8 @@ const flowServivios = addKeyword(['3', 'tres', 'Tres', 'servicios'])
 
 const flowMantenimiento = addKeyword(['1', 'uno',])
     .addAnswer([
-        '🚲 El mantenimiento Stanadard: *$60.000*',
-        '🚲 El mantenimiento Plus: *$80.000*',
+        '🚲 El mantenimiento Stanadard: *$50.000*',
+        '🚲 El mantenimiento Plus: *$70.000*',
         '🚲 El mantenimiento Full: *$150.000*',
         '🚲 El mantenimiento Nucleo (Pacha): *$30.000*',
         '🚲 El mantenimiento Suspencion: Desde *$35.000*',
