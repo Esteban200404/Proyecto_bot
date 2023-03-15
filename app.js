@@ -7,7 +7,7 @@ const MockAdapter = require('@bot-whatsapp/database/mock')
 const flowGracias = addKeyword(['0', 'gracias','Salir']).addAnswer(['*Gracias por comunicarte conmigo* 👋',
 'Recuerda que el Horario es de *9:00.A.M - 7:00.P.M de Lunes - Sabado*'])
 
-const flowComunicacion=addKeyword().addAnswer('*Ya te comunicamos con un asesor*')
+const flowComunicacion=addKeyword(['']).addAnswer('*Ya te comunicamos con un asesor*')
 .addAnswer('*Si lo deseas llamame al numero fijo: (601) 4078348*')
 
 const flowTimon = addKeyword(['9', 'Timon', 'Platos'])
