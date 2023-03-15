@@ -4,11 +4,11 @@ const QRPortalWeb = require('@bot-whatsapp/portal')
 const BaileysProvider = require('@bot-whatsapp/provider/baileys')
 const MockAdapter = require('@bot-whatsapp/database/mock')
 
-const flowGracias = addKeyword(['0', 'gracias']).addAnswer(['*Gracias por comunicarte conmigo* 👋',
+const flowGracias = addKeyword(['0', 'gracias','Salir']).addAnswer(['*Gracias por comunicarte conmigo* 👋',
 'Recuerda que el Horario es de *9:00.A.M - 7:00.P.M de Lunes - Sabado*'])
 
-const flowComunicacion=addKeyword('').addAnswer('*Ya te comunicamos con un asesor*')
-.addAnswer('*Si lo deseas llamame*')
+const flowComunicacion=addKeyword().addAnswer('*Ya te comunicamos con un asesor*')
+.addAnswer('*Si lo deseas llamame al numero fijo: (601) 4078348*')
 
 const flowTimon = addKeyword(['9', 'Timon', 'Platos'])
     .addAnswer('En estos momentos cuento con estos Timones y Platos: ')
@@ -299,7 +299,7 @@ const flowPedales = addKeyword(['Pedales', '3', 'pedales'])
         null,
         [flowGracias,flowComunicacion])
 
-const flowRepuestos = addKeyword(['2', 'dos']).addAnswer('A continuacion decide que tipo de marca deseas manejar')
+const flowRepuestos = addKeyword(['2', 'dos']).addAnswer('A continuacion decide que tipo de marca deseas manejar',)
     .addAnswer([
         '*1.* 🚲 GW',
         '*2.* 🚲 Shimano',
@@ -353,14 +353,17 @@ const flowMantenimiento = addKeyword(['1', 'uno',])
         [flowGracias,flowComunicacion]
     )
 
-const flowPrincipal = addKeyword(['Hola', "Buenas"])
+const flowPrincipal = addKeyword(['Hola', 'Buenas tardes Don','Hola!','Ola','Ole','Inicio','Welcome', 'buenas', 
+'buenas tardes', 'Buenos días','Buenas tardes','Buenas noches' ,'Me dieron este número','Quisiera saber',
+'Venden','Venden a Crédito', 'Necesito saber','Como vamos jhon', 'Que hizo ','buena','buen'])
     .addAnswer(['🚲 *Bici´s Home CyL* 🚲',
         'Bienvenido que tipo de servicio deseas conocer: ',
         '🚲 *1.* Mantenimiento',
         '🚲 *2.* Repuestos',
         '🚲 *3.* Servicios',
         '🚲 *4.* Comunicarme con un ascesor',
-        '🚲 *0.* Salir'],
+        '🚲 *0.* Salir',
+        ],
         null,
         null,
         [flowMantenimiento, flowRepuestos, flowServivios,flowComunicacion, flowGracias]
